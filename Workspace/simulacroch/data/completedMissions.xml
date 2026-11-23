@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<completedMissions>
+    <player id="3">
+        <cMission>
+            <id>1</id>
+            <character>Luke</character>
+        </cMission>
+        <cMission>
+            <id>2</id>
+            <character>Luke</character>
+        </cMission>
+        <cMission>
+            <id>1</id>
+            <character>Rogue</character>
+        </cMission>
+    </player>
+    <player id="2">
+        <cMission>
+            <id>2</id>
+            <character>Mage</character>
+        </cMission>
+        <cMission>
+            <id>3</id>
+            <character>Rogue</character>
+        </cMission>
+    </player>
+</completedMissions>
